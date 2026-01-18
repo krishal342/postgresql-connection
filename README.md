@@ -1,6 +1,10 @@
 
 This is the backend program to connect postgreSQL in node.js using prisma.
 
+# link
+- api: https://postgresql-connection.onrender.com
+- code: https://github.com/krishal342/postgresql-connection
+
 # dependencies
 - "@prisma/adapter-pg": "^7.2.0",
 - "@prisma/client": "^7.2.0",
