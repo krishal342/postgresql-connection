@@ -24,3 +24,11 @@ This is the backend program to connect postgreSQL in node.js using prisma.
 
 - PORT
 - DATABASE_URL
+
+# steps
+- step 1: npm install @prisma/client @prisma/adapter-pg pg dotenv
+- step 2: npm install prisma --save-dev
+- step 3: npx prisma init
+- step 4: define data model
+- step 5: npx prisma migrate dev --name init
+- step 6: npx prisma generate
