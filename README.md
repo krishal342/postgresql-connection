@@ -16,9 +16,9 @@ This is the backend program to connect postgreSQL in node.js using prisma.
 - "prisma": "^7.2.0"
 
 # routes
-/users -> post request to create user -> take 'name' and 'email'
-/users -> get request to get all users
-/user/:id -> get request to get user by id
+- /users -> post request to create user -> take 'name' and 'email'
+- /users -> get request to get all users
+- /user/:id -> get request to get user by id
 
 # .env variadles
 
