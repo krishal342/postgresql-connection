@@ -22,6 +22,7 @@ This is the backend program to connect postgreSQL in node.js using prisma.
 /users/:id -> PUT request to update user by id
 /users/:id -> DELETE request to delete user by id
 
+
 # .env variadles
 
 - PORT
